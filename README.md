@@ -1,27 +1,27 @@
 <div align="center">
 
-<img src="./Deus%20dos%20Mares_%20Tridente%20Dourado.png" alt="DROPISX — GOD OF THE SEAS" width="100%" />
-<p><i>Master the depths. Rule the code.</i></p>
+<img src="./matrix.gif" alt="DROPISX — ACCESS GRANTED" width="100%" />
+<p><i>HACKER 2.0 // MATRIX EDITION</i></p>
 
 </div>
 
-## 🌊 The Ocean’s Architect
+## `whoami`
 
 Desenvolvimento web, projetos e aprendizado contínuo.
 
-## 🔱 Divine Arsenal
+## `ls ./tech_stack`
 
 <div align="center">
 
-![HTML5](https://img.shields.io/badge/HTML5-061321?style=for-the-badge&logo=html5&logoColor=57D6FF)
-![JavaScript](https://img.shields.io/badge/JavaScript-061321?style=for-the-badge&logo=javascript&logoColor=57D6FF)
-![TypeScript](https://img.shields.io/badge/TypeScript-061321?style=for-the-badge&logo=typescript&logoColor=57D6FF)
-![Next.js](https://img.shields.io/badge/Next.js-061321?style=for-the-badge&logo=nextdotjs&logoColor=57D6FF)
-![GitHub](https://img.shields.io/badge/GitHub-061321?style=for-the-badge&logo=github&logoColor=57D6FF)
+![HTML5](https://img.shields.io/badge/HTML5-080D0A?style=for-the-badge&logo=html5&logoColor=00FF66)
+![JavaScript](https://img.shields.io/badge/JavaScript-080D0A?style=for-the-badge&logo=javascript&logoColor=00FF66)
+![TypeScript](https://img.shields.io/badge/TypeScript-080D0A?style=for-the-badge&logo=typescript&logoColor=00FF66)
+![Next.js](https://img.shields.io/badge/Next.js-080D0A?style=for-the-badge&logo=nextdotjs&logoColor=00FF66)
+![GitHub](https://img.shields.io/badge/GitHub-080D0A?style=for-the-badge&logo=github&logoColor=00FF66)
 
 </div>
 
-## 🏛️ Kingdom of Projects
+## `ls ./projects`
 
 | Repositório | Tecnologia | Acesso |
 | :--- | :--- | :--- |
@@ -30,13 +30,13 @@ Desenvolvimento web, projetos e aprendizado contínuo.
 | [website](https://github.com/Dropisx/website) | HTML | [Código](https://github.com/Dropisx/website) |
 | [NossoCantinho](https://github.com/Dropisx/NossoCantinho) | JavaScript | [Código](https://github.com/Dropisx/NossoCantinho) |
 
-## 🌊 Ocean of Contributions
+## `git log --activity`
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Dropisx&amp;show_icons=true&amp;hide_border=true&amp;bg_color=061321&amp;title_color=57D6FF&amp;icon_color=57D6FF&amp;text_color=C9D1D9" alt="Estatísticas públicas do GitHub" />
+<img src="https://github-readme-stats.vercel.app/api?username=Dropisx&amp;show_icons=true&amp;hide_border=true&amp;bg_color=080D0A&amp;title_color=00FF66&amp;icon_color=00FF66&amp;text_color=C9D1D9" alt="Estatísticas públicas do GitHub" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dropisx&amp;layout=compact&amp;hide_border=true&amp;bg_color=061321&amp;title_color=57D6FF&amp;text_color=C9D1D9" alt="Linguagens dos repositórios públicos" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dropisx&amp;layout=compact&amp;hide_border=true&amp;bg_color=080D0A&amp;title_color=00FF66&amp;text_color=C9D1D9" alt="Linguagens dos repositórios públicos" />
 
 </div>
 
@@ -44,8 +44,8 @@ Desenvolvimento web, projetos e aprendizado contínuo.
 
 <div align="center">
 
-`Ψ THE OCEAN NEVER SLEEPS Ψ`
+`[ CONNECTION SECURE ] // EOF`
 
-[![GitHub](https://img.shields.io/badge/@Dropisx-061321?style=flat-square&logo=github&logoColor=57D6FF)](https://github.com/Dropisx)
+[![GitHub](https://img.shields.io/badge/@Dropisx-080D0A?style=flat-square&logo=github&logoColor=00FF66)](https://github.com/Dropisx)
 
 </div>
