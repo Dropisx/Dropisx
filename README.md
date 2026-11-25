@@ -5,6 +5,8 @@
 
 </div>
 
+<img src="./assets/terminal-boot.svg" alt="Animated terminal boot" width="100%" />
+
 ## `whoami`
 
 Desenvolvimento web, projetos e aprendizado contínuo.
@@ -30,7 +32,7 @@ Desenvolvimento web, projetos e aprendizado contínuo.
 | [website](https://github.com/Dropisx/website) | HTML | [Código](https://github.com/Dropisx/website) |
 | [NossoCantinho](https://github.com/Dropisx/NossoCantinho) | JavaScript | [Código](https://github.com/Dropisx/NossoCantinho) |
 
-## `git log --activity`
+## `./cyber-dashboard`
 
 <div align="center">
 
@@ -39,6 +41,14 @@ Desenvolvimento web, projetos e aprendizado contínuo.
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dropisx&amp;layout=compact&amp;hide_border=true&amp;bg_color=080D0A&amp;title_color=00FF66&amp;text_color=C9D1D9" alt="Linguagens dos repositórios públicos" />
 
 </div>
+
+## `git log --activity`
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dropisx&amp;bg_color=080D0A&amp;color=00FF66&amp;line=00FF66&amp;point=B8FFCC&amp;hide_border=true&amp;area=true" alt="GitHub activity graph" width="100%" />
+
+## `./contribution-snake`
+
+<img src="https://raw.githubusercontent.com/Dropisx/Dropisx/output/snake.svg" alt="Animated contribution snake" width="100%" />
 
 ---
 
