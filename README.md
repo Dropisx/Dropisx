@@ -1,7 +1,6 @@
 <div align="center">
 
-<h1>🔱 DROPISX</h1>
-<h3>GOD OF THE SEAS</h3>
+<img src="./Deus%20dos%20Mares_%20Tridente%20Dourado.png" alt="DROPISX — GOD OF THE SEAS" width="100%" />
 <p><i>Master the depths. Rule the code.</i></p>
 
 </div>
