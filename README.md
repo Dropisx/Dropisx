@@ -23,14 +23,20 @@ Desenvolvimento web, projetos e aprendizado contínuo.
 
 </div>
 
-## `ls ./projects`
+## `./project-database`
 
-| Repositório | Tecnologia | Acesso |
-| :--- | :--- | :--- |
-| [todo-list](https://github.com/Dropisx/todo-list) | TypeScript / Next.js | [Demo](https://todo-list-rho-eight-10.vercel.app) |
-| [netflix](https://github.com/Dropisx/netflix) | HTML | [Código](https://github.com/Dropisx/netflix) |
-| [website](https://github.com/Dropisx/website) | HTML | [Código](https://github.com/Dropisx/website) |
-| [NossoCantinho](https://github.com/Dropisx/NossoCantinho) | JavaScript | [Código](https://github.com/Dropisx/NossoCantinho) |
+<div align="center">
+
+[<img src="./assets/taskflow.svg" alt="TaskFlow — featured project" width="100%" />](https://github.com/Dropisx/todo-list)
+
+[![Source](https://img.shields.io/badge/SOURCE_CODE-080D0A?style=for-the-badge&logo=github&logoColor=00FF66)](https://github.com/Dropisx/todo-list)
+[![Docs](https://img.shields.io/badge/DOCUMENTATION-080D0A?style=for-the-badge&logo=readthedocs&logoColor=00FF66)](https://github.com/Dropisx/todo-list#readme)
+
+</div>
+
+Aplicação de gerenciamento de tarefas com API Next.js, persistência no Supabase e integração com automação n8n. Protótipo em desenvolvimento.
+
+`[+] 01 FEATURED PROJECT LOADED`
 
 ## `./cyber-dashboard`
 
