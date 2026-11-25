@@ -1,3 +1,9 @@
+# Pedro Henrique Valeriano
+
+Desenvolvimento Full Stack com React, Next.js e TypeScript, com foco em APIs, integrações e automação.
+
+[LinkedIn](https://www.linkedin.com/in/pedro-valeriano-2b3012313/) · [TaskFlow, projeto em destaque](https://github.com/Dropisx/todo-list)
+
 <div align="center">
 
 <img src="./matrix.gif" alt="DROPISX — ACCESS GRANTED" width="100%" />
@@ -6,10 +12,6 @@
 </div>
 
 <img src="./assets/terminal-boot.svg" alt="Animated terminal boot" width="100%" />
-
-## `whoami`
-
-Desenvolvimento web, projetos e aprendizado contínuo.
 
 ## `ls ./tech_stack`
 
@@ -23,7 +25,7 @@ Desenvolvimento web, projetos e aprendizado contínuo.
 
 </div>
 
-## `./project-database`
+## TaskFlow — projeto em destaque
 
 <div align="center">
 
